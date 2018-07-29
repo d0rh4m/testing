@@ -6,3 +6,4 @@ foo
 foo bar
 
 one more thing
+second thing
